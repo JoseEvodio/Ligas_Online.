@@ -1,0 +1,9 @@
+.test-text{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 750;
+    font-style: italic;
+    text-align: left;
+    text-decoration-line: line-through;
+    color: black;
+}
